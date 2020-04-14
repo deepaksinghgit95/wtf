@@ -1,1 +1,1 @@
-print("wtf")
+print("wtf 123")
